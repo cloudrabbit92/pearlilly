@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/pearlilly/static/css/main.fc91bc53.css",
-    "main.js": "/pearlilly/static/js/main.b211bc1b.js",
+    "main.css": "/pearlilly/static/css/main.26a9c521.css",
+    "main.js": "/pearlilly/static/js/main.66eb7c47.js",
     "static/js/787.144438b9.chunk.js": "/pearlilly/static/js/787.144438b9.chunk.js",
     "static/media/z25.JPG": "/pearlilly/static/media/z25.effb0ba9b21b6709b52d.JPG",
-    "static/media/bg01.png": "/pearlilly/static/media/bg01.8fd2f335c022142313c4.png",
     "static/media/z29.jpg": "/pearlilly/static/media/z29.898736adff968e5c22f1.jpg",
     "static/media/z34.JPG": "/pearlilly/static/media/z34.16a9ffe6968377f23c86.JPG",
     "static/media/z11.jpg": "/pearlilly/static/media/z11.6cc90d18930bedd92e95.jpg",
@@ -14,17 +13,20 @@
     "static/media/z30.jpg": "/pearlilly/static/media/z30.cb1be7409ffc2789b10c.jpg",
     "static/media/z09.jpg": "/pearlilly/static/media/z09.27e271dedc54de2bbc8e.jpg",
     "static/media/z10.jpg": "/pearlilly/static/media/z10.955229574dbd2a1177b3.jpg",
+    "static/media/work6.jpg": "/pearlilly/static/media/work6.332a7701eb930633a2e9.jpg",
     "static/media/z23.jpg": "/pearlilly/static/media/z23.30392d7edf4242d1ee36.jpg",
     "static/media/z07.JPG": "/pearlilly/static/media/z07.fe284fdb698c839239e8.JPG",
     "static/media/z20.JPG": "/pearlilly/static/media/z20.a810a3d712d1bd4980bd.JPG",
     "static/media/z05.JPG": "/pearlilly/static/media/z05.ba72a802b87ccffd5737.JPG",
     "static/media/z28.jpg": "/pearlilly/static/media/z28.4816cfccd5f64b108862.jpg",
     "static/media/z06.JPG": "/pearlilly/static/media/z06.8c810eb858eed21a3799.JPG",
+    "static/media/work2.JPG": "/pearlilly/static/media/work2.e1fafafd4de29fe9ca1d.JPG",
     "static/media/z17.JPG": "/pearlilly/static/media/z17.e8f4e24a05617f06062e.JPG",
     "static/media/z12.jpg": "/pearlilly/static/media/z12.e281393b98aabfbfef8d.jpg",
-    "static/media/ailne01.png": "/pearlilly/static/media/ailne01.24b5bdd1c8d92b85ad53.png",
+    "static/media/banner.jpg": "/pearlilly/static/media/banner.68a764da31f3066ba99b.jpg",
     "static/media/z22.jpg": "/pearlilly/static/media/z22.3746cf62a727c11a2115.jpg",
     "static/media/z19.JPG": "/pearlilly/static/media/z19.9d610f2847c8e4dd7cac.JPG",
+    "static/media/santa.jpg": "/pearlilly/static/media/santa.ec5119a43650b048d856.jpg",
     "static/media/z18.JPG": "/pearlilly/static/media/z18.2ebb4a913880b9d2cca1.JPG",
     "static/media/z26.JPG": "/pearlilly/static/media/z26.e9208cfa8de34ca4425b.JPG",
     "static/media/z13.JPG": "/pearlilly/static/media/z13.2b52f1d4359f0a9b103c.JPG",
@@ -33,6 +35,9 @@
     "static/media/z03.JPG": "/pearlilly/static/media/z03.2b51cdc81bbd5d4a9cd3.JPG",
     "static/media/z27.JPG": "/pearlilly/static/media/z27.8c6587fd3e95df9976f4.JPG",
     "static/media/z36.JPG": "/pearlilly/static/media/z36.6dc6715f876f796f48d0.JPG",
+    "static/media/work3.JPG": "/pearlilly/static/media/work3.a4e2d46912b08e4b0a9b.JPG",
+    "static/media/afreeca.png": "/pearlilly/static/media/afreeca.3f609a407bdc08ba2216.png",
+    "static/media/work5.JPG": "/pearlilly/static/media/work5.fcde998e11b35e9d7144.JPG",
     "static/media/z37.JPG": "/pearlilly/static/media/z37.da7025b9856d89a8ed26.JPG",
     "static/media/z33.JPG": "/pearlilly/static/media/z33.abb185be67fa5130ba23.JPG",
     "static/media/z31.JPG": "/pearlilly/static/media/z31.00f6bf371fbe4e834b23.JPG",
@@ -43,13 +48,12 @@
     "static/media/slick.ttf": "/pearlilly/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/pearlilly/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/pearlilly/index.html",
-    "static/media/Rolling.svg": "/pearlilly/static/media/Rolling.773e36c32db26c2930cf9be9c19de60c.svg",
-    "main.fc91bc53.css.map": "/pearlilly/static/css/main.fc91bc53.css.map",
-    "main.b211bc1b.js.map": "/pearlilly/static/js/main.b211bc1b.js.map",
+    "main.26a9c521.css.map": "/pearlilly/static/css/main.26a9c521.css.map",
+    "main.66eb7c47.js.map": "/pearlilly/static/js/main.66eb7c47.js.map",
     "787.144438b9.chunk.js.map": "/pearlilly/static/js/787.144438b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc91bc53.css",
-    "static/js/main.b211bc1b.js"
+    "static/css/main.26a9c521.css",
+    "static/js/main.66eb7c47.js"
   ]
 }
