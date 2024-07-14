@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pearlilly/static/css/main.43ed6ede.css",
-    "main.js": "/pearlilly/static/js/main.a9208e75.js",
+    "main.js": "/pearlilly/static/js/main.095fd358.js",
     "static/js/787.144438b9.chunk.js": "/pearlilly/static/js/787.144438b9.chunk.js",
     "static/media/z25.JPG": "/pearlilly/static/media/z25.effb0ba9b21b6709b52d.JPG",
     "static/media/mg02.mp4": "/pearlilly/static/media/mg02.081e6044e8354da9ee13.mp4",
@@ -49,15 +49,15 @@
     "static/media/z36.JPG": "/pearlilly/static/media/z36.6dc6715f876f796f48d0.JPG",
     "static/media/work3.JPG": "/pearlilly/static/media/work3.a4e2d46912b08e4b0a9b.JPG",
     "static/media/mg03.png": "/pearlilly/static/media/mg03.a73957670489fb909c16.png",
-    "static/media/bims02.png": "/pearlilly/static/media/bims02.bca5a0c82c4978b54bfd.png",
     "static/media/work5.JPG": "/pearlilly/static/media/work5.fcde998e11b35e9d7144.JPG",
     "static/media/z37.JPG": "/pearlilly/static/media/z37.da7025b9856d89a8ed26.JPG",
     "static/media/z33.JPG": "/pearlilly/static/media/z33.abb185be67fa5130ba23.JPG",
     "static/media/z31.JPG": "/pearlilly/static/media/z31.00f6bf371fbe4e834b23.JPG",
-    "static/media/bims03.JPG": "/pearlilly/static/media/bims03.96ac922dd8da1c2da57d.JPG",
     "static/media/z32.JPG": "/pearlilly/static/media/z32.d971d270adb3544cfcd2.JPG",
+    "static/media/bims03.JPG": "/pearlilly/static/media/bims03.c2287dd53001dad8f382.JPG",
     "static/media/z24.JPG": "/pearlilly/static/media/z24.6a499e58254344c40dc9.JPG",
-    "static/media/bims01.JPG": "/pearlilly/static/media/bims01.85c0cc5bb2666348b3bb.JPG",
+    "static/media/bims02.JPG": "/pearlilly/static/media/bims02.85dece50eaf691eb11c4.JPG",
+    "static/media/bims01.JPG": "/pearlilly/static/media/bims01.33766161eb9f18080ecb.JPG",
     "static/media/slick.svg": "/pearlilly/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/pearlilly/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/pearlilly/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -65,11 +65,11 @@
     "index.html": "/pearlilly/index.html",
     "static/media/Rolling.svg": "/pearlilly/static/media/Rolling.8706e7d20db6d904fca0df2ec30e0125.svg",
     "main.43ed6ede.css.map": "/pearlilly/static/css/main.43ed6ede.css.map",
-    "main.a9208e75.js.map": "/pearlilly/static/js/main.a9208e75.js.map",
+    "main.095fd358.js.map": "/pearlilly/static/js/main.095fd358.js.map",
     "787.144438b9.chunk.js.map": "/pearlilly/static/js/787.144438b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43ed6ede.css",
-    "static/js/main.a9208e75.js"
+    "static/js/main.095fd358.js"
   ]
 }
