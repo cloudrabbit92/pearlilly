@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pearlilly/static/css/main.1f494e47.css",
-    "main.js": "/pearlilly/static/js/main.a0274f11.js",
+    "main.js": "/pearlilly/static/js/main.16c0105e.js",
     "static/js/787.144438b9.chunk.js": "/pearlilly/static/js/787.144438b9.chunk.js",
     "static/media/z25.JPG": "/pearlilly/static/media/z25.effb0ba9b21b6709b52d.JPG",
     "static/media/mg02.mp4": "/pearlilly/static/media/mg02.081e6044e8354da9ee13.mp4",
@@ -61,11 +61,11 @@
     "static/media/slick.woff": "/pearlilly/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/pearlilly/index.html",
     "main.1f494e47.css.map": "/pearlilly/static/css/main.1f494e47.css.map",
-    "main.a0274f11.js.map": "/pearlilly/static/js/main.a0274f11.js.map",
+    "main.16c0105e.js.map": "/pearlilly/static/js/main.16c0105e.js.map",
     "787.144438b9.chunk.js.map": "/pearlilly/static/js/787.144438b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f494e47.css",
-    "static/js/main.a0274f11.js"
+    "static/js/main.16c0105e.js"
   ]
 }
